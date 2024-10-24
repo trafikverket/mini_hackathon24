@@ -1,0 +1,11 @@
+Flödeskamera nära en korsning som kan se om trafikanter kör för rött eller ej.
+Du sätter en flödeskamera nära en korsning och en till på andra sidan som samspelar med trafikljus. 
+Är det rött och den andra kameran ser bilen åka så kan den skicka signal att man brytit mot trafikregler.
+
+Med hjälp av data som redan finns kan man samla in via drönare hur exempelvis det ser ut med vegetationskontroll på landet mer effektivt.
+Kan även utrustas med värmekamror för att kunna identifiera vilka vägar är mer utsatta för is och därmed vet vart man ska fokusera på att salta/ploga.
+
+//Vili Mujkanovic
+
+
+
