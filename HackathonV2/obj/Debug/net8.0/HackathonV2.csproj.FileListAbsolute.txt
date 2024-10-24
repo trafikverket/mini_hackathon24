@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\bin\Debug\net8.0\HackathonV2.exe
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\bin\Debug\net8.0\HackathonV2.deps.json
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\bin\Debug\net8.0\HackathonV2.runtimeconfig.json
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\bin\Debug\net8.0\HackathonV2.dll
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\bin\Debug\net8.0\HackathonV2.pdb
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.dll
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\refint\HackathonV2.dll
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.pdb
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\HackathonV2.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Dokument\Iteration_Pattern\HackathonV2\obj\Debug\net8.0\ref\HackathonV2.dll
