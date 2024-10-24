@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2awv9OU/XqY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mattr\\source\\repos\\mini_hackathon\\m_h24\\m_h24\\m_h24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mattr\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mattr\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
