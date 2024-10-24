@@ -286,10 +286,14 @@
                   const time = new Date(announcement.AdvertisedTimeAtLocation);
                   const formattedTime = formatTimeForDisplay(time);
                   const track = announcement.TrackAtLocation || "Unknown track";
-                  // Get the type of traffic, translate "Tåg" to "Train" and "Buss" to "Bus", or default to "Unknown type"
+                  // Get the type of traffic, translate "Tåg" to "Train" and "Buss" to "Bus" etc, or default to "Unknown type"
                   const typeOfTraffic =
                     announcement.TypeOfTraffic === "Tåg"
                       ? "Train"
+                      : announcement.TypeOfTraffic === "Pendeltåg"
+                      ? "Commuter Train"
+                      : announcement.TypeOfTraffic === "Taxi"
+                      ? "Taxi"
                       : announcement.TypeOfTraffic === "Buss"
                       ? "Bus"
                       : announcement.TypeOfTraffic || "Unknown type";
@@ -350,10 +354,14 @@
                   }
                   const formattedTime = formatTimeForDisplay(time);
                   const track = train.TrackAtLocation || "Unknown track";
-                  // Get the type of traffic, translate "Tåg" to "Train" and "Buss" to "Bus", or default to "Unknown type"
+                  // Get the type of traffic, translate "Tåg" to "Train" and "Buss" to "Bus" etc, or default to "Unknown type"
                   const typeOfTraffic =
                     train.TypeOfTraffic === "Tåg"
                       ? "Train"
+                      : train.TypeOfTraffic === "Pendeltåg"
+                      ? "Commuter Train"
+                      : train.TypeOfTraffic === "Taxi"
+                      ? "Taxi"
                       : train.TypeOfTraffic === "Buss"
                       ? "Bus"
                       : train.TypeOfTraffic || "Unknown type";
