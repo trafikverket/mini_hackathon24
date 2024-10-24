@@ -1,0 +1,12 @@
+Programidé:
+Kontrollera väglag i realtid (tänk 'Vägarbete' (Gula/Orangea) i Google Maps.)
+Hur mäter man detta? 
+	- samma funktionalitet som 'Vägarete Google Maps'?
+	- Väderstation räkna ut hur mycket det ska snöa/regna/påverka väglaget under en viss period, och därifrån bestämma vilken typ av Väglagskod som ska skickas ut?
+	- Samma teknik som 'Vägarbete Google Maps'?
+
+	Tanken bakom detta är främst att personer/företag ska kunna planera sin rutt under dagen, från plats A till B.
+	Det som 'jag' vet existerar är när man skickar ut varningskoder för hur vädret kommer att vara 'Gul varning',
+		- men att skapa en mer specifik, regional, är tanken bakom detta.
+		- Detta är en lätt liten 'prototyp' som visar hur man kan göra (med hjälp av forum, chatGPT).
+		- Just nu visar den vägarna i Dalarna och deras väglag, samt vilken Kod det är bakom (förklaring finns i koden).

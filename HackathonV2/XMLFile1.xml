@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<REQUEST>
+	<LOGIN authenticationkey="8888e62eebf74cc9aa98fbb54fa4f96e"/>
+	<QUERY objecttype="RoadCondition" schemaversion="1.3">
+		<FILTER>
+			<EQ name="CountyNo" value="20"/>
+			<!-- 20 är länskoden för Dalarnas län -->
+		</FILTER>
+		<INCLUDE>RoadNumber</INCLUDE>
+		<!-- Inkluderar vägnummret -->
+		<INCLUDE>ConditionCode</INCLUDE>
+		<!-- Inkluderar koden för väglag -->
+		<INCLUDE>ConditionText</INCLUDE>
+		<!-- Inkluderar beskrivningen av väglaget -->
+	</QUERY>
+</REQUEST>
